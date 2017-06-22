@@ -1,0 +1,10 @@
+{
+  "name": "currency-converter",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-views": "^6.0.2"
+  }
+}
